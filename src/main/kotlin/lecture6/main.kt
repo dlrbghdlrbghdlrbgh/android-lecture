@@ -1,4 +1,5 @@
-package main.kotlin.lecture6
-
-class main {
-}
+//package main.kotlin.lecture6
+//
+//fun main(){
+//
+//}

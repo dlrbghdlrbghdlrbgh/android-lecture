@@ -5,14 +5,29 @@
 // */
 //fun main() {
 //
-//    val intArray = arrayOf(1,2,3 )  // 앞에서부터 0번째, 1번째 ...번째 인덱스
+//    //https://github.com/dlrbghdlrbghdlrbgh/android-lecture.git
+//    val intArray = arrayOf(1, 2, 3)  // 앞에서부터 0번째, 1번째 ...번째 인덱스
 //
+//    var index = 0;
 //    println(intArray[0])    // 0번째 인덱스에 저장된 값을 출력하라
+//    println(intArray[index])
+//
+//    println(intArray[1])    // 1번째 인덱스에 저장된 값을 출력하라
+//    println(intArray[++index])
+//
+//    println(intArray[2])    // 2번째 인덱스에 저장된 값을 출력하라
+//    println(intArray[++index])
+//
+//    index = 0;
+//    println(intArray[index++])
+//    println(intArray[index++])
+//    println(intArray[index++])
+//
 //
 //    println(intArray.size)    // 배열의 크기를 반환
 //
 //    println(intArray[2])    // 최대 인덱스는 배열의 크기보다 하나 작다
 //
-//    println(intArray[2] == intArray[intArray.size -1]) // 다음과 같은 연산이 가능하다
+//    println(intArray[2] == intArray[intArray.size - 1]) // 다음과 같은 연산이 가능하다
 //
 //}
